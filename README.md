@@ -10,7 +10,7 @@ The reason I made this repo is to practice my own css skill from beginner to adv
 
 I also hope that this repo can be reference for others to make better CSS design from code.
 
-## DONE
+## Achievement
 These are the available css design
 
 | NAME | LINK | STATUS |
