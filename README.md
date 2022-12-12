@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
 	<a href="http://jkdeveloper.com" target="_blank" align="center">
 		All cool and awesome css & animation by jktan
 	</a>
