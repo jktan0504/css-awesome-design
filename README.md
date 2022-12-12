@@ -11,8 +11,8 @@ The reason I made this repo is to practice my own css skill from beginner to adv
 I also hope that this repo can be reference for others to make better CSS design from code.
 
 ## Achievement
-These are the available css design
+These are the available css designs
 
 | NAME | LINK | STATUS |
 |--------|--------|--------|
-| [HEART] | ["heart.css"](https://github.com/jktan0504/css-awesome-design/tree/main/UI/heart). | ✅ | 
+| DESIGN - HEART | ["heart.css"](https://github.com/jktan0504/css-awesome-design/tree/main/UI/heart). | ✅ | 
