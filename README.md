@@ -8,7 +8,7 @@
 
 The reason I made this repo is to practice my own css skill from beginner to advance level. I found out that making beautiful UI from code will make me satisfy.
 
-I also hope that this repo can be reference for helping others to make better CSS design from code.
+I also hope that this repo can be reference for others to make better CSS design from code.
 
 ## DONE
 These are the available css design
