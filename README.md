@@ -15,5 +15,4 @@ These are the available css design
 
 | NAME | LINK | STATUS |
 |--------|--------|--------|
-| [HEART | [labeled
-"heart css"](https://github.com/jktan0504/css-awesome-design/tree/main/UI/heart). | ✅ | 
+| [HEART] | [labeled"heart css"](https://github.com/jktan0504/css-awesome-design/tree/main/UI/heart). | ✅ | 
