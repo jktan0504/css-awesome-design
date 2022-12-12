@@ -13,6 +13,7 @@ I also hope that this repo can be reference for helping others to make better CS
 ## DONE
 These are the available css design
 
-| Name | Link | Status |
-HEART | [labeled
-"heart css"](https://github.com/jktan0504/css-awesome-design/tree/main/UI/heart). | ✅
+| NAME | LINK | STATUS |
+|--------|--------|--------|
+| [HEART | [labeled
+"heart css"](https://github.com/jktan0504/css-awesome-design/tree/main/UI/heart). | ✅ | 
