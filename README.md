@@ -1,6 +1,6 @@
 <h1 align="center">
 	<a href="http://jkdeveloper.com" target="_blank" align="center">
-		All cool and awesome CSS UI and animation by JKTAN
+		All cool and awesome css & animation by jktan
 	</a>
 </h1>
 
