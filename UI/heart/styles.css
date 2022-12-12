@@ -1,0 +1,33 @@
+/* whole page design */
+html,
+body {
+	width: 100vw;
+	height: 100vw;
+	overflow: hidden;
+	margin: auto;
+	background: #F5F5F5;
+}
+
+/* heart  */
+.heart {
+	position: relative;
+	top: 25%;
+	left: 50%;
+	height: 160px;
+	width: 100px;
+	background-color: #d16ba5;
+	border-radius: 200px 200px 0 0;
+	transform: rotate(45deg);
+}
+
+.heart::before {
+	content: '';
+	position: absolute;
+	height: 160px;
+	width: 100px;
+	background-color: #d16ba5;
+	border-radius: 200px 200px 0 0;
+	transform: rotate(-90deg);
+	left: -30px;
+	top: 30px;
+}
